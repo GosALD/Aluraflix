@@ -49,7 +49,14 @@ img {
   gap: 10px;
 }
 
+  .categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+}
+
   section {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+  
