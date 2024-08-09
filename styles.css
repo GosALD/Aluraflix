@@ -42,7 +42,7 @@ h1 {
   font-size: 40px;
   
 img {
-  height: 200px;
+  height: 100px;
 }
 
   p {
@@ -64,9 +64,5 @@ img {
     color: rgb(42, 122, 228);
 }
 
-  section {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
   
+
