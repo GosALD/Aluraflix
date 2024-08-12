@@ -21,9 +21,6 @@ section {
   justify-content: center;
 }
 
-img {
-  height: 200px;
-}
 
 .categoria {
   padding-left: 20px;
@@ -42,6 +39,11 @@ h1 {
 p {
   font-size: 20px;
 }
+
+img {
+  height: 200px;
+}
+
 .categoria-videos img {
     opacity: 0.5;
     height: 200px
