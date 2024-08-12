@@ -21,6 +21,10 @@ section {
   justify-content: center;
 }
 
+img {
+  height: 200px;
+}
+
 .categoria {
   padding-left: 20px;
   padding-right: 20px;
